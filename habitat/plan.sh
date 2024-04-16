@@ -13,8 +13,8 @@
 # visit the Habitat Builder depot at https://bldr.habitat.sh/#/pkgs.
 
 pkg_name=sample-node-app
-pkg_origin=your_origin
-pkg_version="1.1.0"
+pkg_origin=mark_test
+pkg_version="1.1.2"
 pkg_deps=(core/node)
 
 # Habitat provides you with a number of built-in "callbacks" to use
