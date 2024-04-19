@@ -14,7 +14,7 @@
 
 pkg_name=sample-node-app
 pkg_origin=mark_test
-pkg_version="1.1.2"
+pkg_version="1.2.0"
 pkg_deps=(core/node)
 
 # Habitat provides you with a number of built-in "callbacks" to use
